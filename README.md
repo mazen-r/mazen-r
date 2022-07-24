@@ -8,7 +8,7 @@ I try to build software that do cool stuff!
 ----------
 🧰 Toolbox  
 
-[![My Skills](https://skillicons.dev/icons?i=py,nodejs,js,django,flask,fastapi,express,postgres,mongodb,docker,redis,git,aws,&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs,js,django,flask,fastapi,express,postgres,mongodb,docker,redis,git,heroku,aws,&perline=15)](https://skillicons.dev)
 
 <img align="left" alt="RabbitMQ" width="45px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" />
 <img align="left" alt="RabbitMQ" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
