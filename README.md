@@ -9,5 +9,5 @@ I try to build software that do cool stuff!
 ----------
 🧰 Toolbox  
 
-[![My Skills](https://skillicons.dev/icons?i=py,nodejs,ts,django,flask,fastapi,express,nestjs,postgres,mongodb,docker,kubernetes,rabbitmq,kafka,redis,aws,git,,&perline=17)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs,ts,django,fastapi,express,nestjs,postgres,mongodb,docker,kubernetes,rabbitmq,redis,aws,git,,&perline=17)](https://skillicons.dev)
 
